@@ -54,6 +54,7 @@ Created an interactive dashboard using:
 - **Line Chart**: Sales Distribution Across Top 15 States  
 - **Bar Chart**: Profit by Month and Shipping Mode  
 - **Pie Chart**: Profit by Customer Segment and Product Sub-Category
+- ![Superstore Dashboard](images/superstore_dashboard.png)
 
 ---
 
