@@ -75,9 +75,17 @@ Created an interactive dashboard using:
 
 ---
 
-## 🌐 Data Source
+## 🌐 Dataset Source
 
 Dataset sourced from Kaggle:  
 [Superstore Dataset (Vivek468)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Used for educational and non-commercial purposes only.
+
+---
+
+## 📫 Contact
+- **[Chioma Nnadi]**
+- 📧 [Email](nnadicvictoria@gmail.com)
+- 🔗 [Linkedin](https://www.linkedin.com/in/nnadichioma/)
 
 ---
